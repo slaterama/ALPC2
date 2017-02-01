@@ -1,0 +1,36 @@
+<resources>
+  <string name="app_name">ALPC2</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+
+  <string name="enter_input_data">Enter an input data string:</string>
+  <string name="input_data_hint">Input</string>
+  <string name="select_from_sample_data">Select from sample data</string>
+  <string name="process">Process</string>
+  <string name="output">Output:</string>
+
+  <string-array name="input_data_labels">
+    <item>Simple Green Line</item>
+    <item>Blue Square</item>
+    <item>Clipping at the Edge of the Drawing</item>
+    <item>Clipping at the Edge of the Drawing 2</item>
+  </string-array>
+
+  <string-array name="input_data">
+    <item>F0A04000417F4000417FC040004000804001C05F205F20804000</item>
+    <item>F0A040004000417F417FC040004000804001C05F204000400001400140400040007E405B2C4000804000</item>
+    <item>F0A0417F40004000417FC067086708804001C0670840004000187818784000804000</item>
+    <item>F0A0417F41004000417FC067086708804001C067082C3C18782C3C804000</item>
+  </string-array>
+
+  <string name="an_error_occurred">An error occurred.</string>
+  <string name="error_in_input_data">An error occurred in input data.</string>
+
+  <string name="command_clear">CLR</string>
+  <string name="command_pen_up_down">PEN</string>
+  <string name="command_set_color">CO</string>
+  <string name="command_move_pen">MV</string>
+
+  <string name="command_pen_up">UP</string>
+  <string name="command_pen_down">DOWN</string>
+</resources>
